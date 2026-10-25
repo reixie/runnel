@@ -1,0 +1,6 @@
+{
+  "name": "Runnel",
+  "identifier": "dev.reixie.runnel",
+  "version": "0.1.0",
+  "macos": { "minimumSystemVersion": "13.0" }
+}
