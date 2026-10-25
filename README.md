@@ -1,4 +1,4 @@
-# Runnel — Stage 4
+# Runnel
 
 A native macOS workspace with Home, local projects and retained terminal sessions.
 Each session contains up to four independent terminals in a nested split tree.
